@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 开始 ->
-      link: /markdown-examples
+      link: /simple
 features:
   - title: 配置式
     details: 通过js config生成表单

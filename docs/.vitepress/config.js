@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "xaform",
   description: "对 antdv form 的增强，使用配置生成表单",
+  base: '/xaform/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
