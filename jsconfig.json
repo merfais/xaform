@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./demo/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
